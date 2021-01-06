@@ -4,4 +4,4 @@
 Пример простой фиксированной вертски сайта.
 
 ## ссылка на сайт:
-https://air-asia.safwood.tmweb.ru/reviews.html
+https://air-asia.safwood.tmweb.ru

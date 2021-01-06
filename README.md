@@ -1,9 +1,7 @@
 # Многостраничный сайт Air-Asia
 
 ## Описание:
-Приимер вертски сайта.
+Пример простой фиксированной вертски сайта.
 
-## Установка:
-1. В командной строке git clone https://github.com/Safwood/map.git
-2. Установите все зависимости проекта npm install.
-3. Введите команду npm start.
+## ссылка на сайт:
+https://air-asia.safwood.tmweb.ru/reviews.html

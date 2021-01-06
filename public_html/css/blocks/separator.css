@@ -1,0 +1,18 @@
+.separator {
+  color: #ffffff;
+  min-height: 359px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: url(../../images/bg/banner_bg.jpg) right 49% bottom no-repeat;
+  background-size: cover;
+}
+
+.separator__content {
+  max-width: 43%;
+}
+
+.separator__title {
+  line-height: 1.1;
+  font-size: 48px;
+}

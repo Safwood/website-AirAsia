@@ -1,0 +1,104 @@
+.hot-tours {
+  margin-bottom: 140px;
+  width: 1150px;
+}
+
+.hot-tours__heading {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 47px;
+}
+
+.hot-tours__title {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.hot-tours__fire-icon {
+  height: 28px;
+}
+
+.hot-tours__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hot-tours__item {
+  width: calc(100%/3 - 21px);
+}
+
+.hot-tour {
+  min-height: 441px;
+  background-color: #ffffff;
+  border-radius: 13px;
+  overflow: hidden;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+.hot-tour__header {
+  margin-bottom: 0px;
+}
+
+.hot-tour__images {
+  max-height: 100%;
+  width:100%;
+  object-fit: cover;
+}
+.hot-tour__information {
+  padding: 24px 21px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.hot-tour__name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 19px;
+}
+
+.hot-tour__tripscontent {
+  margin-bottom: 26px;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+}
+
+.hot-tour__cells {
+  margin-right: 34px;
+}
+
+.hot-tour__cells:last-child {
+  margin: 0px;
+}
+
+.hot-tour__icon {
+  margin-right: 3px;
+  display: inline;
+  vertical-align: middle;
+}
+
+.hot-tour__bnb {
+  display: inline;
+  vertical-align: middle;
+}
+
+.hot-tour__text {
+  margin-bottom: 24px;
+  width: 295px;
+  min-height: 53px;
+  font-size: 14px;
+  line-height: 1.44em;
+}
+
+.hot-tour__btn-wrapper {
+  margin-top: auto;
+}
+
+.hot-tour__button {
+  padding: 15px 29px;
+}
+

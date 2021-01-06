@@ -1,0 +1,13 @@
+.tag {
+  color: #2f2f2f;
+  font-size: 13px;
+  background-color: #e7e7e7;
+  border-radius: 18px;
+  text-align: center;
+  padding: 9px 20px;
+  display: inline-block;
+}
+
+.tag--bg--green {
+  background-color: #b9eae4;
+}

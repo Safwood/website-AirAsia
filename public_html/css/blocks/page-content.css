@@ -1,0 +1,17 @@
+.page-content {
+  flex: 1;
+}
+
+.page-content__service {
+  background-color: #fff;
+  color: #000;
+  padding-bottom: 89px;
+  padding-top: 101px;
+}
+
+.page-content__reviews {
+  background-color: #fff;
+  padding-top: 104px;
+  padding-bottom: 90px;
+}
+

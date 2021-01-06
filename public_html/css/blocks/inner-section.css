@@ -1,0 +1,18 @@
+
+.inner-section {
+  background-color: #fff;
+  padding-top: 84px;
+  padding-bottom: 115px;
+  flex: 1;
+} 
+
+.inner-section--bg--grey {
+  background-color: #f4f5f5;
+}
+
+.inner-section__title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 84px;
+  color:#191b1d;
+}

@@ -1,0 +1,30 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.footer__col {
+  display: flex;
+  align-items: center;
+}
+
+.footer__col--align--right {
+  justify-content: flex-end;
+}
+
+.footer__container {
+  margin-top: auto;
+}
+
+.footer__main-page {
+  padding: 50px 0;
+  border-top: 1px solid;
+  border-color: #1a3038;
+}
+
+.inner-footer {
+  padding: 42px 0;
+  border-top: none;
+}

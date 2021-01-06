@@ -1,0 +1,38 @@
+.about {
+  display: flex;
+  height: 563px;
+  margin-bottom: 40px;
+}
+ 
+.about__image{
+   border-radius: 6px;
+}
+ 
+.about__content {
+  margin-left: -128px;
+  margin-top: 107px;
+  max-width: 778px;
+  color: #001821;
+}
+ 
+.about__wrapper {
+  position: relative;
+}
+
+.about__info {
+  position: absolute;
+  top: 71px;
+  left: 97px;
+  max-width: 586px;
+}
+ 
+.about__title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 29px;
+}
+
+.about__text {
+  margin-bottom: 38px;
+  line-height: 1.72em;
+}

@@ -1,0 +1,22 @@
+
+
+.partners__list__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 186px;
+}
+
+.partners__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.partners__logo:hover {
+  filter: grayscale(0);
+}
+
+.partners__logo {
+  filter: grayscale(100%);
+}
